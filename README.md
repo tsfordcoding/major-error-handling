@@ -1,3 +1,3 @@
-# Continuation of Robust Server Design - RESTful APIs
+# Continuation of Robust Server Design - Major Error Handling
 
-Learning how to develop a server that follows representational state transfer constraints. Follows and adds to the starter file for robust server design in the Thinkful curriculum.
+Learning how to develop a system for dealing with handling errors from an Express server.
